@@ -17,7 +17,21 @@
 |Intrusion detection/prevention systems          |
 | Play with Firewalls |
 
-<h2>👨‍💻 cybersecurity Projects:</h2>
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="python" width="40" height="40"/>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,mysql,vscode,git,linux,docker,bash,figma" alt="My Skills" />
+  </a>
+</p>
 
 
 <h2>📺 useful videos </h2>
@@ -26,14 +40,6 @@
 - [How to Create a KeyLogger ](https://www.youtube.com/watch?v=TbMKwl11itQ)
 - [how to set up  kali linux](https://www.youtube.com/watch?v=FYYU9qZ0Pps)
 
-<h2> 🤳 Connect with me:
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/sabri_m_X/
-[linkedin]: www.linkedin.com/in/saidane-sabri-takieddine-719b2a338
-</h2>
 
 <h3 align="left">and you can connect with me here :</h3>
 <p align="left">
