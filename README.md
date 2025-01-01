@@ -52,7 +52,7 @@
 
 - 🌱 I’m currently Reseaching on **Quantum Cyrptography**
 
-- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/saidane-sabri-takieddine)
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/saidane-sabri-takieddine](https://www.linkedin.com/in/saidane-sabri-takieddine-719b2a338/)
 
 - 💬 Ask me about **Penetration Testing, Networking, Cloud Security, Operating Systems, honeypot**
 
