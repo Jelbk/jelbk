@@ -52,11 +52,9 @@
 
 - 🌱 I’m currently Reseaching on **Quantum Cyrptography**
 
-- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/saidane-sabri-takieddine](https://www.linkedin.com/in/saidane-sabri-takieddine-719b2a338/)
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/saidane-sabri-takieddine)
 
 - 💬 Ask me about **Penetration Testing, Networking, Cloud Security, Operating Systems, honeypot**
-
-- 📄 Know about my experiences [Resume](https://cv.awjunaid.com)
 
 - ⚡ Facts **the earth is round**
 
